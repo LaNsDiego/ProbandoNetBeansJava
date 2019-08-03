@@ -9,7 +9,7 @@ package ejercicio1;
  *
  * @author Alex
  */
-public class NewMain {
+public class editado1 {
 
     /**
      * @param args the command line arguments
